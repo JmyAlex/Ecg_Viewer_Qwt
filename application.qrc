@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cursor-arrow.png</file>
+        <file>images/ecg.png</file>
+        <file>images/ecg1.png</file>
+        <file>images/filter.png</file>
+        <file>images/open.png</file>
+        <file>images/pan.png</file>
+        <file>images/zoom_in.png</file>
+        <file>images/zoom_out.png</file>
+        <file>images/lens.png</file>
+    </qresource>
+</RCC>
